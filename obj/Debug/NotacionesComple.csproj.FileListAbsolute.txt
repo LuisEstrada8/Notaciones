@@ -1,0 +1,16 @@
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\bin\Debug\NotacionesComple.exe.config
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\bin\Debug\NotacionesComple.exe
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\bin\Debug\NotacionesComple.pdb
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.csprojAssemblyReference.cache
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.Form1.resources
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.Properties.Resources.resources
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.csproj.GenerateResource.cache
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.csproj.CoreCompileInputs.cache
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.exe
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.pdb
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.csproj.CopyComplete
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\bin\Debug\NotacionesComple.exe.manifest
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\bin\Debug\NotacionesComple.application
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.exe.manifest
+C:\Users\Pc Gamer\source\repos\NotacionesComple\NotacionesComple\obj\Debug\NotacionesComple.application
